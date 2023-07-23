@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://app.masrmix.com/FlyWeb_Admin_Panel/",
+  "firstColor": "#7b50dc",
+  "secondColor": "#597ae2", 
+  "appIdOneSignal": "xxxxxxxxx-xxxx-xxxx-xxx-xxxxxxxxxxx",
+  "defaultLanguage": "ar",
+  "deeplink": "new.masrmix.com"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106050531908",
+    "project_id": "masrmix7",
+    "storage_bucket": "masrmix7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106050531908:android:d6e65318b0f1d9162e8211",
+        "android_client_info": {
+          "package_name": "com.masrmix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106050531908-acrpim1aqvmpr39rgb7ppaqlqb07lbtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPgi4SkdIqimWDD7YIJfE7EObFcRJNrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106050531908-acrpim1aqvmpr39rgb7ppaqlqb07lbtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
